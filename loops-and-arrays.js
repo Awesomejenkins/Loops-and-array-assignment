@@ -50,7 +50,7 @@ const numbers = [2, 4, 5, 29, 38];
 // Zorg ervoor dat dit ook zou werken als de array wel 100 of 200 getallen zou bevatten!
 // ==========================================
 
-const squares = [30, 2, 8, 24, 11];
+const squares = [30, 2, 8, 24, 11, 12];
 
 
 for (let i = 0; i < squares.length; i++){

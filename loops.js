@@ -5,7 +5,7 @@
 // Hoera!
 // Hoera!
 // ==========================================
-const hiepHiep = "Hoera!"
+const hiepHiep = "Hoera! hoera!"
 for (let i = 0; i < 3; i++) {
     console.log(hiepHiep);
 }
